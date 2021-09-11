@@ -1,0 +1,17 @@
+2021-09-01 21:17:02 INFO  CaseBase:57 - 【打开appium】
+2021-09-01 21:17:14 INFO  CaseBase:85 - 【开启隐式等待，等待时长：5s】
+2021-09-01 21:17:14 INFO  BasePage:51 - 【点击(By.AccessibilityId: 我的柠檬)元素】
+2021-09-01 21:17:16 INFO  BasePage:51 - 【点击(By.id: com.lemon.lemonban:id/fragment_my_lemon_avatar_image)元素】
+2021-09-01 21:17:16 INFO  BasePage:35 - 【定位(By.id: com.lemon.lemonban:id/et_mobile)元素，输入：13323234545】
+2021-09-01 21:17:18 INFO  BasePage:35 - 【定位(By.id: com.lemon.lemonban:id/et_password)元素，输入：234545】
+2021-09-01 21:17:19 INFO  BasePage:51 - 【点击(By.id: com.lemon.lemonban:id/btn_login)元素】
+2021-09-01 21:17:21 INFO  BasePage:81 - 【获取(By.id: com.lemon.lemonban:id/fragment_my_lemon_avatar_title)元素文本】
+2021-09-01 21:17:22 INFO  UIAssert:20 - 【等值断言，实际值：歪歪，期望值：歪歪】
+2021-09-01 21:17:24 INFO  BasePage:51 - 【点击(By.xpath: //android.widget.FrameLayout[@content-desc="题库"])元素】
+2021-09-01 21:17:26 INFO  BasePage:51 - 【点击(By.xpath: //*[@text='软件测试基础'])元素】
+2021-09-01 21:17:27 INFO  BasePage:51 - 【点击(By.id: com.lemon.lemonban:id/first_level)元素】
+2021-09-01 21:17:28 INFO  BasePage:51 - 【点击(By.xpath: //*[@text='软件测试基础--初级--第1套'])元素】
+2021-09-01 21:17:29 INFO  BasePage:51 - 【点击(By.id: com.lemon.lemonban:id/switch_button)元素】
+2021-09-01 21:17:30 INFO  BasePage:113 - 【(By.id: com.lemon.lemonban:id/tvBody)元素是否显示】
+2021-09-01 21:17:30 INFO  UIAssert:30 - 【等值断言，实际值：true，期望值：true】
+2021-09-01 21:17:35 INFO  CaseBase:42 - 【关闭驱动】
